@@ -89,7 +89,7 @@ Target.visible(viz.OFF)
 info = hmd.addMessagePanel(' ', pos=(0,0,3))
 info.visible(viz.OFF)
 
-# Setup a sound
+# Setup metronome
 sound=viz.addAudio('Bottle_80.mp3')
 sound.loop(viz.ON)
 sound.volume(1)
