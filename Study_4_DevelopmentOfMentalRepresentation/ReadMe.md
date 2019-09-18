@@ -14,6 +14,8 @@ The study investigates whether a mental representation could be developed during
 
 Participants walked through a forest-like environment. The layout of the "forest" was either randomly changed from trial to trial, or remained the same across trials. There were two conditions of remaining the same: (1) remaining the same relative to the world (so participants walked back and forth through the "forest"), and (2) remaining the same relative to the participants themselves (so participants walked in the same direction in the "forest" regardless of their real walking direction).
 
+## About Experiment V.2
 
+In this version, among the ten trials in each testing block, there is no offset between visual and motor directions during the first eight trials. The offset is introduced in the last two trials only.
 
 Andersen, G. J., & Enriquez, A. (2006). Use of landmarks and allocentric reference frames for the control of locomotion. *Visual Cognition, 13(1)*, 119–128. https://doi.org/10.1080/13506280500405675
